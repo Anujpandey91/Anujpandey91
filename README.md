@@ -1,6 +1,6 @@
 # Hi, I'm Anuj Pandey 👋
 
-I'm a B.Tech student focused on **Artificial Intelligence and Machine Learning**.
+I'm a B.Tech student focused on **Artificial Intelligence, Machine Learning, and Deep Learning**.
 
 I enjoy understanding how things work under the hood rather than treating models as black boxes. I like implementing concepts from scratch, experimenting with them, and turning what I learn into practical projects.
 
@@ -14,23 +14,25 @@ I enjoy understanding how things work under the hood rather than treating models
 
 ### 🔨 Currently Building & Learning
 
-- Deep learning implementations using **Python & NumPy**
-- Convolutional Neural Networks and computer vision
-- Practical machine learning projects
-- Understanding the mathematics behind ML and DL
+- Building a deep learning library from scratch using **Python & NumPy**
+- Implementing **Convolutional Neural Networks** from first principles
+- Exploring computer vision and deep learning architectures
+- Working on practical machine learning projects
+- Strengthening the mathematical foundations behind ML and DL
 
 ### 🛠️ Tools & Technologies
 
 **Languages:** Python · C · Java · SQL
 
-**ML/DL:** NumPy · Pandas · Scikit-learn · Deep Learning
+**ML/DL:** NumPy · Pandas · Scikit-learn · Neural Networks · CNNs
 
 **Tools:** Git · GitHub
 
 ### 📌 Featured Project
 
 **[mydl — Deep Learning Library Built from Scratch with NumPy](https://github.com/Anujpandey91/Neural-Network-implementation-in-Python-from-scratch)**
- An educational deep learning library built from scratch with NumPy, covering neural networks, backpropagation, optimization, regularization, dropout, and model evaluation.
+
+An educational deep learning library built from scratch with **Python and NumPy**, covering neural networks, backpropagation, optimization, regularization, dropout, and model evaluation.
 
 ### 🌐 Connect with me
 
@@ -40,5 +42,3 @@ I enjoy understanding how things work under the hood rather than treating models
 ---
 
 *From Algorithms to Applications.*
----
-
