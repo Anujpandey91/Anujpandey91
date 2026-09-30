@@ -29,7 +29,7 @@ I enjoy understanding how things work under the hood rather than treating models
 
 ### 📌 Featured Project
 
-**[mydl — Deep Learning Library Built from Scratch with NumPy](https://github.com/Anujpandey91/Neural-Netwok-imlementation-in-Python-from-scratch)**
+**[mydl — Deep Learning Library Built from Scratch with NumPy](https://github.com/Anujpandey91/Neural-Network-implementation-in-Python-from-scratch)**
  An educational deep learning library built from scratch with NumPy, covering neural networks, backpropagation, optimization, regularization, dropout, and model evaluation.
 
 ### 🌐 Connect with me
